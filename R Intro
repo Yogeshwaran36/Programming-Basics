@@ -1,0 +1,7 @@
+Comment #
+Assignment Operator <-
+Objects We used the assignment operator to create objects — for example, hello_world and a. 
+        The names of these objects are completely arbitrary. Unless they are created within a function, 
+        they are stored in R’s memory with the value you assigned to them (e.g., "hello world", 5) until the end of your R session.
+Classes R automatically assigns a class to each object you create. Three classes were used above: numeric, character, and logical. 
+        Use class() to see what type an object is (e.g., class(hello_world), class(a), and class(x)).
