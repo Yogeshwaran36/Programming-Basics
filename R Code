@@ -1,0 +1,5 @@
+read.csv(file.choose()) #To choose file directly
+sd() #Standard Deviation
+var() #Varience
+#sd=Root of Var
+pnorm() #PValue
