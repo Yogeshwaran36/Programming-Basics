@@ -4,4 +4,8 @@ median() #Median
 sd() #Standard Deviation
 var() #Varience
 #sd=Root of Var
-pnorm() #PValue
+Probability Distribution 
+pnorm() #Probability of a ND
+qnorm() #Quartile of a ND
+dnorm() #Probability Density of a ND
+rnorm() #Random Sample of a ND
